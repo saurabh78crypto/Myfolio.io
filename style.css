@@ -55,6 +55,7 @@ section{
     margin-top: 1rem;
     font-size: 2rem;
     border-radius: 5rem;
+    margin-bottom: 20rem;
 }
 
 .btn i{
@@ -160,6 +161,7 @@ header .navbar ul li a:hover{
 .home h3{
     font-size: 2.5rem;
     color:#fff;
+    margin-top: 20rem;
 }
 
 .home h1{
@@ -259,6 +261,7 @@ header .navbar ul li a:hover{
     justify-content: center;
     flex-wrap: wrap;
     padding:2rem 0;
+    margin-bottom: 4.8rem;
 }
 
 .portfolio .box-container .box{
@@ -285,7 +288,7 @@ header .navbar ul li a:hover{
     align-items: center;
     justify-content: center;
     flex-wrap: wrap;
-}
+  }
 
 .contact .row .content{
     flex:1 1 30rem;
@@ -474,6 +477,7 @@ header .navbar ul li a:hover{
     font-size: 2.2rem;
     /* padding-top: 1rem; */
     padding: 5px 3px 5px 3px;
+    margin-bottom: .6rem;
 }
 
 #dsa{
@@ -482,12 +486,13 @@ header .navbar ul li a:hover{
 
 .follow{
     text-align: center;
+    margin-top: 20rem;
+    /* margin-bottom: 14rem */
 }
 .follow a{
     font-size: 4rem;
     color:#fff;
     margin:4rem .7rem;
-    
 }
 
 .follow a:hover{
